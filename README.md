@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on Risk: The Board Game in Java :exclamation:
 - 🌱 I’m currently learning data structures, algorithms, UNIX Programming... and much more. 
 - 👯 I’m looking to collaborate on fun projects that'll help me learn new things.
-- 📫 How to reach me: [![LinkedIn][3.2]][3].
--->
+- 📫 How to reach me: [![LinkedIn][2.2]][2]
 <!-- Icons -->
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
