@@ -16,7 +16,7 @@
  [![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randomcloc&show_icons=true&count_private=true&title_color=Ffa000&icon_color=Ffa000&text_color=E7e5dd&bg_color=2b231c)](https://github.com/Randomcloc/github-readme-stats)
 
 ```text
-> 🔭 I’m currently working on Risk: The Board Game in Java :exclamation:
+> 🔭 I’m currently working on Risk: The Board Game in Java!
 > 🌱 I’m currently learning data structures, algorithms, UNIX Programming... and much more. 
 > 👯 I’m looking to collaborate on fun projects that'll help me learn new things.
 ``` 
