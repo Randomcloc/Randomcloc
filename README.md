@@ -3,7 +3,8 @@
 <!--
 **Randomcloc/Randomcloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-:pushpin: My name is Abhijeet and I'm currently studying Computer Science in University College Dublin :mortar_board: !
+:pushpin: 
+> My name is Abhijeet and I'm currently studying Computer Science in University College Dublin :mortar_board: !
 
  <a href="https://www.linkedin.com/in/abhijeet-suryawanshi-9513801ab">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin" />
