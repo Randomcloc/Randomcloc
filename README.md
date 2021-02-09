@@ -19,5 +19,4 @@
 > 🔭 I’m currently working on Risk: The Board Game in Java!
 > 🌱 I’m currently learning data structures, algorithms, UNIX Programming... and much more. 
 > 👯 I’m looking to collaborate on fun projects that'll help me learn new things.
-> I am open to internship offers!
 ``` 
