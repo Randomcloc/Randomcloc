@@ -17,6 +17,6 @@
 
 ```text
 > 🔭 I’m currently working on a Discord bot for a server in Python!
-> 🌱 I’m currently learning Data Science in Python, Probability, Object Oriented Programming in Scala... and much more. 
+> 🌱 I’m currently learning Data Science in Python, Probability, Object Oriented Programming in Scala... and more! 
 > 👯 I’m looking to collaborate on fun projects that'll help me learn new things.
 ``` 
