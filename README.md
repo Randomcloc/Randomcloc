@@ -16,7 +16,7 @@
 [![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randomcloc&show_icons=true&count_private=true&title_color=Ffa000&icon_color=Ffa000&text_color=E7e5dd&bg_color=2b231c)](https://github.com/Randomcloc/github-readme-stats)
 
 ```text
-> 🔭 I’m currently working on a Discord bot for a server in Python!
-> 🌱 I’m currently learning Data Science in Python, Probability, Object Oriented Programming in Scala... and more! 
+> 🔭 I’m currently working on creating a drop shipping website to sell products!
+> 🌱 I’m currently learning the workplace development process as an intern at Bank of America! 
 > 👯 I’m looking to collaborate on fun projects that'll help me learn new things.
 ``` 
