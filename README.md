@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" />
  </a>
  
-[![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randomcloc&show_icons=true&count_private=true&title_color=Ffa000&icon_color=Ffa000&text_color=E7e5dd&bg_color=2b231c)](https://github.com/Randomcloc/github-readme-stats)
+<!-- [![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randomcloc&show_icons=true&count_private=true&title_color=Ffa000&icon_color=Ffa000&text_color=E7e5dd&bg_color=2b231c)](https://github.com/Randomcloc/github-readme-stats) -->
 
 ```text
 > 🔭 I’m currently working on creating a drop shipping website to sell products!
